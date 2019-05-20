@@ -84,6 +84,7 @@
     "workbox-webpack-plugin": "3.6.3"
   },
   "scripts": {
+    "preinstall" : "bash ./lib/cfg.sh"
     "build": "node scripts/build.js",  
     "start": "node server.js"
   },
