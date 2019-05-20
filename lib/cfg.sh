@@ -1,3 +1,3 @@
 echo 'start load local libs'
 pwd
-ls ../
+export SASS_BINARY_PATH=./lib/linux-x64-57_binding.node
