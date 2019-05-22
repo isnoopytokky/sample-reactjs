@@ -32,4 +32,4 @@ Open Site
   Open Headless Chrome Browser to Page  ${URL}
   Capture Page Screenshot
   Title Should Be        D-Service - Digital Plant Maintenance Service
-  Wait Until Page Contains  All rights reserved
+  Wait Until Page Contains  Sign up
